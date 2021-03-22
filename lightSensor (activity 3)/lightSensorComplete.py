@@ -45,7 +45,7 @@ while True:
         light_sensor()
 
 
-        
+# click on flash to upload this program to your microbit         
 
   
 

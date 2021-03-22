@@ -3,9 +3,6 @@ from microbit import *
 # emphasize the importance of comments 
 # so you can come back to your code later and know what everything does
 
-
-# functions
-
 # -------------------------------------------------------------------------------------------
 # the temp sensor function.
 def temp_sensor():
@@ -92,8 +89,3 @@ while True:
         soil_sensor()
 
 # click on flash to upload this program to your microbit 
-  
-
-    
-        
-
